@@ -1,2 +1,2 @@
-# Privacy-And-Policy
-Privacy And Policy information
+# TIME_API
+GLOBAL TIME API
